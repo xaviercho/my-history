@@ -1,6 +1,6 @@
 # my-history
 Description:
-As noted, individual commits on GitHub are associated with timestamps that indicate their commit times. Nevertheless, it's possible to manipulate these timestamps, allowing us to alter the appearance of commits to appear as though they were made at times other than their actual commit moments.
+As noted, individual commits on GitHub are associated with timestamps that indicate their commit times. Nevertheless, it's possible to manipulate these timestamps, allowing us to alter the appearance of commits to appear as though they were made at times other than their actual commit moments. Further through the series we can also add fake contributors and add verified organizations to the list.
 
 Solution Description:
 - Adding commits recursively and then randomly modifying the dates.
