@@ -1,0 +1,27 @@
+{
+  "name": "my-history",
+  "version": "1.0.0",
+  "description": "for educational purposes only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaviercho/my-history.git"
+  },
+  "author": "xavier cho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaviercho/my-history/issues"
+  },
+  "homepage": "https://github.com/xaviercho/my-history#readme",
+  "dependencies": {
+    "fix-esm": "^1.0.1",
+    "got": "^11.8.3",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.4",
+    "random": "^2.2.0",
+    "simple-git": "^3.19.1"
+  }
+}
